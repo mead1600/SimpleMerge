@@ -1,4 +1,4 @@
-/**
+/** D
  * Created by Teacher on 1/28/2019.
  * simpleMerge takes in two sorted arrays of
  * integers and merges them to return one sorted
